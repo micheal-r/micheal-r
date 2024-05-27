@@ -13,6 +13,8 @@ My favorite language is JavaScript. 👨‍💻
     [GitHub](https://github.com/hexalon-discord/hexalon) - [Discord](https://discord.gg/aMaQzM7GMW)
 - expressRatelimiter: Simply add ratelimits to your express website / API. 🕸️
     [npmjs.org](https://www.npmjs.com/package/express-better-ratelimit) - [GitHub](https://github.com/micheal-r/expressRatelimiter)
+- MarkdownToHtml: Easily convert Markdown files to HTML layout files for your website.
+    [npmjs.org](https://www.npmjs.com/package/easy-markdown-to-html) - [GitHub](https://github.com/micheal-r/MarkdownToHtml)
 
 ## Contact
 Email - r.micheal.dev@gmail.com
