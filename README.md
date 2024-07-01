@@ -21,7 +21,7 @@ My favorite language is JavaScript. 👨‍💻
     [npmjs.org](https://www.npmjs.com/package/easy-markdown-to-html) - [GitHub](https://github.com/micheal-r/MarkdownToHtml)
 
 ## Contact
-Email - r.micheal.dev@gmail.com
-Discord - micheal.r
-GitHub - micheal-r
-NPM - micheal-r
+#### Email - r.micheal.dev@gmail.com
+#### Discord - micheal.r
+#### GitHub - micheal-r
+#### NPM - micheal-r
