@@ -1,6 +1,8 @@
 # Hi there, I'm micheal
 I'm a tech enthousiast and fullstack developer.
 
+![](https://komarev.com/ghpvc/?username=micheal-r&color=blue)
+
 ## About me
 I am 18 years old. 👨
 I am a male. 🧔‍♂️
